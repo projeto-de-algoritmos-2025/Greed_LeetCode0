@@ -24,7 +24,7 @@ Dado um conjunto de cursos, onde cada curso é representado por `[duration, last
 ![630](https://github.com/user-attachments/assets/6ac0c000-2738-44aa-a897-dd894f6afb19)
 
 ### [621. Task Scheduler (Difícil)](https://leetcode.com/problems/task-scheduler/description/?envType=problem-list-v2&envId=greedy)
-No problema Task Scheduler, temos uma lista de tarefas representadas por letras maiúsculas, onde cada letra corresponde a um tipo de tarefa. Existe uma restrição: após executar uma tarefa, ela não pode ser repetida até que passem pelo menos n intervalos de tempo, que podem ser ocupados por outras tarefas ou permanecer ociosos (idle). O objetivo é determinar o menor número de intervalos necessários para executar todas as tarefas, respeitando esse intervalo de resfriamento entre tarefas iguais.
+No problema, temos uma lista de tarefas representadas por letras maiúsculas, onde cada letra corresponde a um tipo de tarefa. Existe uma restrição: após executar uma tarefa, ela não pode ser repetida até que passem pelo menos n intervalos de tempo, que podem ser ocupados por outras tarefas ou permanecer ociosos (idle). O objetivo é determinar o menor número de intervalos necessários para executar todas as tarefas, respeitando esse intervalo de resfriamento entre tarefas iguais.
 
 ![621](https://github.com/user-attachments/assets/55f36a7d-29de-4b1e-8c21-849ae2ec8d99)
 
