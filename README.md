@@ -18,6 +18,11 @@ Dado um array ordenado de inteiros positivos nums e um inteiro n, o objetivo é 
 
 ![330](https://github.com/user-attachments/assets/56c48868-54fd-4b79-93e5-867a6ae54a61)
 
+### [630. Course Schedule III (Difícil)](https://leetcode.com/problems/course-schedule-iii/description/?envType=problem-list-v2&envId=greedy)
+Dado um conjunto de cursos, onde cada curso é representado por `[duration, lastDay]`, indicando que o curso leva `duration` dias consecutivos e deve ser concluído até o dia `lastDay`, o objetivo é determinar o **máximo número de cursos que podem ser realizados**, considerando que os cursos são feitos de forma sequencial, sem sobreposição.
+
+![630](https://github.com/user-attachments/assets/6ac0c000-2738-44aa-a897-dd894f6afb19)
+
 
 ## Instalação 
 **Linguagem**: Python<br>
