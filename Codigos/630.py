@@ -2,7 +2,6 @@ import heapq
 
 class Solution:
     def scheduleCourse(self, courses):
-        # Ordena pelo deadline
         courses.sort(key=lambda x: x[1])
         
         max_heap = []
@@ -10,9 +9,9 @@ class Solution:
         
         for duration, lastDay in courses:
             time += duration
-            heapq.heappush(max_heap, -duration)  # Usamos heap negativo para simular max-heap
+            heapq.heappush(max_heap, -duration)
             
             if time > lastDay:
                 longest = -heapq.heappop(max_heap)
-                time -= longest  # Remove o curso de maior duração
+                time -= longest 
         return len(max_heap)
