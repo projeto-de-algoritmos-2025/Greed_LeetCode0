@@ -23,6 +23,10 @@ Dado um conjunto de cursos, onde cada curso é representado por `[duration, last
 
 ![630](https://github.com/user-attachments/assets/6ac0c000-2738-44aa-a897-dd894f6afb19)
 
+### [621. Task Scheduler (Difícil)](https://leetcode.com/problems/task-scheduler/description/?envType=problem-list-v2&envId=greedy)
+No problema Task Scheduler, temos uma lista de tarefas representadas por letras maiúsculas, onde cada letra corresponde a um tipo de tarefa. Existe uma restrição: após executar uma tarefa, ela não pode ser repetida até que passem pelo menos n intervalos de tempo, que podem ser ocupados por outras tarefas ou permanecer ociosos (idle). O objetivo é determinar o menor número de intervalos necessários para executar todas as tarefas, respeitando esse intervalo de resfriamento entre tarefas iguais.
+
+![621](https://github.com/user-attachments/assets/55f36a7d-29de-4b1e-8c21-849ae2ec8d99)
 
 ### [435. Non-overlapping Intervals (Médio)](https://leetcode.com/problems/non-overlapping-intervals/description/?envType=problem-list-v2&envId=greedy)
 Dado um conjunto de intervalos representado por pares [início, fim], o problema consiste em remover o menor número possível de intervalos para que os intervalos restantes não se sobreponham. Dois intervalos são considerados não sobrepostos se o fim de um for menor ou igual ao início do outro. O objetivo é, portanto, garantir que todos os intervalos restantes possam coexistir sem conflitos de tempo.
@@ -30,4 +34,4 @@ Dado um conjunto de intervalos representado por pares [início, fim], o problema
 ![435](https://github.com/user-attachments/assets/df799a4a-5ab6-4bb2-86b8-5eb096d90d3c)
 
 ## Instalação 
-**Linguagem**: Python<br>
+**Linguagem**: Python 3<br>
