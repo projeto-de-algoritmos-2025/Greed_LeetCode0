@@ -10,22 +10,10 @@
 | 22/2015186 | Manoela Silvestre Garcia Chaves |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Para explorar o conteúdo do tópico de Algoritmos Ambiciosos, a dupla escolheu quatro exercícios na plataforma online LeetCode: três de nível difícil e um de nível médio.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+**Linguagem**: Python<br>
