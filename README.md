@@ -35,3 +35,15 @@ Dado um conjunto de intervalos representado por pares [início, fim], o problema
 
 ## Instalação 
 **Linguagem**: Python 3<br>
+
+## Apresentação do trabalho
+
+<p align="center">
+  <a href="https://youtu.be/4B5sOnJOYyg" target="_blank">
+    <img src="https://img.youtube.com/vi/4B5sOnJOYyg/0.jpg" alt="Assista à demonstração do projeto" width="700" />
+  </a>
+</p>
+
+<p align="center">
+  Disponível em: <a href="https://youtu.be/4B5sOnJOYyg" target="_blank">https://youtu.be/4B5sOnJOYyg</a>
+</p>
