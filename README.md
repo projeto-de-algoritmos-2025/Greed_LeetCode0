@@ -24,5 +24,10 @@ Dado um conjunto de cursos, onde cada curso é representado por `[duration, last
 ![630](https://github.com/user-attachments/assets/6ac0c000-2738-44aa-a897-dd894f6afb19)
 
 
+### [435. Non-overlapping Intervals (Médio)](https://leetcode.com/problems/non-overlapping-intervals/description/?envType=problem-list-v2&envId=greedy)
+Dado um conjunto de intervalos representado por pares [início, fim], o problema consiste em remover o menor número possível de intervalos para que os intervalos restantes não se sobreponham. Dois intervalos são considerados não sobrepostos se o fim de um for menor ou igual ao início do outro. O objetivo é, portanto, garantir que todos os intervalos restantes possam coexistir sem conflitos de tempo.
+
+![435](https://github.com/user-attachments/assets/df799a4a-5ab6-4bb2-86b8-5eb096d90d3c)
+
 ## Instalação 
 **Linguagem**: Python<br>
